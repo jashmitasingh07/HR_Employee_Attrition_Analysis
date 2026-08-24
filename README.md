@@ -73,7 +73,7 @@ The interactive Power BI dashboard includes:
 
 ## Dashboard
 
-![HR Employee Attrition Dashboard](dashboard hr.png)
+![HR Employee Attrition Dashboard](dashboard.png)
 
 ## Conclusion
 
